@@ -1,1 +1,1 @@
-web: gunicorn seu_scrip:app
+web: gunicorn -b :$PORT seu scrip:app
