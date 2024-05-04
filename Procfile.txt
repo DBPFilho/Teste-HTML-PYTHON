@@ -1,1 +1,1 @@
-web: gunicorn seu scrip:app
+web: gunicorn seu_scrip:app
